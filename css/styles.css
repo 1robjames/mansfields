@@ -1,0 +1,151 @@
+body {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  background-image: url("../images/grass-sky.jpg");
+  background-size:cover;
+
+}
+
+.main-header {
+
+  /* margin-right: 10%; */
+  padding-top: 0%;
+    text-shadow: 2px 1px 20px #2e6e9b;
+}
+.sub-heading {
+text-shadow: 2px 1px 20px #2e6e9b;
+}
+
+
+.navbar-custom {
+  padding: 15px;
+  font-family: 'Playfair Display', serif;
+}
+.navbar-brand {
+
+
+}
+
+
+.container-fluid {
+  padding: 0;
+}
+
+h1 {
+  font-size: 5.5rem;
+  line-height: 1.5;
+
+
+}
+#title {
+  color: white;
+  text-align: center;
+  margin-bottom:150px;
+
+}
+
+#about {
+margin:15% 7% 0 7%;
+}
+
+.about-text {
+  line-height: 1.5;
+}
+
+.bunch-image {
+  width:  250px;
+  position: relative;
+  right: 120px;
+  float: left;
+}
+.tom-image {
+  position: relative;
+  margin-top: 90px;
+  /* margin: auto; */
+  width:800px;
+  /* bottom : 100px; */
+  z-index: -1;
+  max-width: 300px;
+  padding : 2% 2%;
+
+  /* width: 250px;
+  right: 200px;
+  top:70px;
+  float: right;
+  margin-right: auto; */
+
+
+}
+
+/* .container {
+    margin-top: 20px;
+} */
+.testimonial-img {
+  width: 150px;
+  border-radius: 100%;
+  margin:20px;
+  float: left;
+  margin-bottom: 70px;
+  text-shadow: 1px 1px 30px black;
+
+}
+
+.testimonial-header {
+  line-height: 1.5;
+  font-weight: bold;
+  margin:30px;
+  text-align: left;
+  text-shadow: 1px 1px 30px black;
+  color: white;
+}
+.testimonial-text {
+  text-align: left;
+  font-weight: bold;
+  color: white;
+    text-shadow: 1px 1px 30px black;
+
+
+}
+#testimonials {
+  margin-top: 100px;
+padding: 100px 150px 0;
+
+}
+
+.carousel-item {
+    margin:1% 10% 15% 0 ;
+}
+/* .carousel-inner{
+  position: relative;
+} */
+.container {
+padding: 0;}
+
+.carousel-control-next {
+  width: 1rem;
+}
+.carousel-control-prev {
+  width: 1rem;
+}
+
+/* .hr {
+  border-top: 4px dotted #EFECE8;
+  padding-top: 0;
+  position: relative;
+  bottom:117px;
+  width: 90%;
+}
+
+.hrfirst {
+  border-top: 1px dotted #EFECE8;
+  position: relative;
+  width: 90%;
+  top:100px;
+} */
+
+.border-fruit {
+  top:200px;
+  width: 1000px;
+}
+
+/* SIGN IN PAGE */

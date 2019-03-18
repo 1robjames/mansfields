@@ -1,0 +1,75 @@
+body {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  background-image: url("../images/grass-sky.jpg");
+  background-size:cover;
+}
+
+.asparagus {
+  float: left;
+
+}
+.navbar-custom {
+  padding: 15px;
+  font-family: 'Playfair Display', serif;
+}
+.navbar-brand {
+
+
+}
+
+
+.container-fluid {
+  padding: 0;
+}
+
+h1 {
+  /* padding-top: 60px; */
+  font-size: 5rem;
+  line-height: 1.5;
+  text-shadow: 4px 1px 20px #2e6e9b;
+}
+
+
+#title {
+  color: white;
+  text-align: center;
+  margin-bottom:90px;
+
+
+
+}
+
+p {
+  color: black;
+  text-shadow: 1px 1px 1px grey;
+  font-size: 1.2rem;
+  text-align: left;
+  position: relative;
+  line-height: 2;
+}
+.paragraph-white {
+  color: white;
+  text-shadow: 20px 1px 30px black;
+
+}
+#season-body {
+  margin: 0% 7%
+}
+.start-letter {
+  font-size: 3rem;
+  font-family: 'Parisienne', cursive;
+  /* margin-left: 0px 0px 0px 30px; */
+  width: 85px;
+  height: 35px;
+  /* position: absolute;
+  left: 100px;
+  top: 150px; */
+
+}
+h2 {
+
+}
+.plate {
+  width:700px;
+}
